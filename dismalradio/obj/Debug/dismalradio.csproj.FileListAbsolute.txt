@@ -1,0 +1,11 @@
+C:\Users\Dmitry\source\repos\dismalradio\dismalradio\bin\Debug\libmp3lame.32.dll
+C:\Users\Dmitry\source\repos\dismalradio\dismalradio\bin\Debug\libmp3lame.64.dll
+C:\Users\Dmitry\source\repos\dismalradio\dismalradio\bin\Debug\dismalradio.dll
+C:\Users\Dmitry\source\repos\dismalradio\dismalradio\bin\Debug\dismalradio.pdb
+C:\Users\Dmitry\source\repos\dismalradio\dismalradio\bin\Debug\NAudio.xml
+C:\Users\Dmitry\source\repos\dismalradio\dismalradio\obj\Debug\dismalradio.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\dismalradio\dismalradio\obj\Debug\dismalradio.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\dismalradio\dismalradio\obj\Debug\dismalradio.csproj.Fody.CopyLocal.cache
+C:\Users\Dmitry\source\repos\dismalradio\dismalradio\obj\Debug\dismalradio.csproj.CopyComplete
+C:\Users\Dmitry\source\repos\dismalradio\dismalradio\obj\Debug\dismalradio.dll
+C:\Users\Dmitry\source\repos\dismalradio\dismalradio\obj\Debug\dismalradio.pdb
